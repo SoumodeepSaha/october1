@@ -1,4 +1,4 @@
-print("Give two numbers :")
+print("Give 2 numbers :")
 x = int(input())
 a = int(input())
 mul=x*a
