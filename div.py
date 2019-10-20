@@ -1,4 +1,4 @@
-print("Give 2 numbers :")
+print("Give two numbers :")
 x = int(input())
 b = int(input())
 div=x/b
