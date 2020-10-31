@@ -1,5 +1,5 @@
 print("Give 2 numbers :")
-a = int(input())
+y = int(input())
 x = int(input())
-print(a+x)
+print(y+x)
 print("Hello World")
