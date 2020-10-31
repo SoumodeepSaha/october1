@@ -1,5 +1,5 @@
-print("Give two numbers :")
-x = int(input())
+print("Give 2 numbers :")
+a = int(input())
 b = int(input())
-div=x/b
+div=a/b
 print(div)
