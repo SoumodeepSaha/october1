@@ -1,5 +1,5 @@
 print("Give two numbers :")
-x = int(input())
+b = int(input())
 a = int(input())
-mul=x*a
+mul=b*a
 print(mul)
